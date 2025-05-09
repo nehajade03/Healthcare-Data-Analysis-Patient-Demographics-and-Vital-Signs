@@ -7,7 +7,7 @@ The healthcare industry relies heavily on patient data to make informed decision
 ## Dataset Overview
 The dataset contains various patient-related attributes, including demographics, medical conditions, and treatment details, across multiple hospitals. Key columns in the dataset include:
 
-- **Name**: Patient's name (anonymized for privacy)
+- **Name**: Patient's name 
 - **Age**: Patient's age
 - **Gender**: Patient's gender
 - **Blood Type**: Patient's blood type
@@ -15,7 +15,7 @@ The dataset contains various patient-related attributes, including demographics,
 - **Date of Admission**: Date the patient was admitted to the hospital
 - **Doctor**: Name of the doctor treating the patient
 - **Hospital**: Name of the hospital where treatment is provided
-- **Insurance Provider**: Name of the insurance provider, if applicable
+- **Insurance Provider**: Name of the insurance provider
 - **Billing Amount**: Total cost of treatment
 - **Room Number**: Room assigned to the patient
 - **Admission Type**: Type of admission (e.g., emergency, elective)
